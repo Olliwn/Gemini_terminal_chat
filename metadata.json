@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Contextual Chat",
+  "description": "A stylish, terminal-themed chat application using Gemini. Features a clean, \"macOS Homebrew\" aesthetic, full Markdown and code snippet support, and a log-style context viewer.",
+  "requestFramePermissions": []
+}
